@@ -1,4 +1,4 @@
-# gravler.github.io
+# Gravler's projects
 
 * [Landing page "Smallapps"](https://gravler.github.io/smallapps/)
 * [Web application "Movie Explorer"](https://movie-explorer-78435.herokuapp.com)
